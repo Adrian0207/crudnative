@@ -1,0 +1,46 @@
+{
+  "clientes": [
+    {
+      "nombre": "Test",
+      "telefono": "09887655331",
+      "correo": "Test",
+      "empresa": "Test",
+      "id": 1
+    },
+    {
+      "nombre": "Test2",
+      "telefono": "09887655331",
+      "correo": "Test",
+      "empresa": "Testpppppo",
+      "id": 2
+    },
+    {
+      "nombre": "Test5",
+      "telefono": "09887655331",
+      "correo": "Test4",
+      "empresa": "Test4",
+      "id": 4
+    },
+    {
+      "nombre": "Adrián",
+      "telefono": "0987654321",
+      "correo": "Adriano",
+      "empresa": "Este",
+      "id": 5
+    },
+    {
+      "nombre": "Si se v",
+      "telefono": "09865",
+      "correo": "Tedto",
+      "empresa": "Testo",
+      "id": 6
+    },
+    {
+      "nombre": "Testghu",
+      "telefono": "Xkkfkfkfk",
+      "correo": "Dkifififi",
+      "empresa": "Koooook",
+      "id": 8
+    }
+  ]
+}
